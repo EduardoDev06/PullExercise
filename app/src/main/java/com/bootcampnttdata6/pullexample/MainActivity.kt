@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         //This is a comment
         //This is a comment inside develop branch
         //This is a comment inside develop branch2
+
+        //This is new comment branch 3
     }
 }
