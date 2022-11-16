@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //This is a comment
         //This is a comment inside develop branch
+        //This is a comment inside develop branch2
     }
 }
